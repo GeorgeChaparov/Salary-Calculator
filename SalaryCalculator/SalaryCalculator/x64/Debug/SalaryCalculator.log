@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SalaryCalculator.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SalaryCalculator.cpp
+C:\Users\gigoto\Documents\GitHub\Salary-Calculator\SalaryCalculator\SalaryCalculator\SalaryCalculator.cpp(43,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\gigoto\Documents\GitHub\Salary-Calculator\SalaryCalculator\SalaryCalculator\SalaryCalculator.cpp(75,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gigoto\Documents\GitHub\Salary-Calculator\SalaryCalculator\SalaryCalculator\SalaryCalculator.cpp(232,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gigoto\Documents\GitHub\Salary-Calculator\SalaryCalculator\SalaryCalculator\SalaryCalculator.cpp(268,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gigoto\Documents\GitHub\Salary-Calculator\SalaryCalculator\SalaryCalculator\SalaryCalculator.cpp(296,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gigoto\Documents\GitHub\Salary-Calculator\SalaryCalculator\SalaryCalculator\SalaryCalculator.cpp(350,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gigoto\Documents\GitHub\Salary-Calculator\SalaryCalculator\SalaryCalculator\SalaryCalculator.cpp(438,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gigoto\Documents\GitHub\Salary-Calculator\SalaryCalculator\SalaryCalculator\SalaryCalculator.cpp(463,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gigoto\Documents\GitHub\Salary-Calculator\SalaryCalculator\SalaryCalculator\SalaryCalculator.cpp(532,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gigoto\Documents\GitHub\Salary-Calculator\SalaryCalculator\SalaryCalculator\SalaryCalculator.cpp(551,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gigoto\Documents\GitHub\Salary-Calculator\SalaryCalculator\SalaryCalculator\SalaryCalculator.cpp(578,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SalaryCalculator.vcxproj -> C:\Users\gigoto\Documents\GitHub\Salary-Calculator\SalaryCalculator\x64\Debug\SalaryCalculator.exe
